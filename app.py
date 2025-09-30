@@ -103,4 +103,3 @@ st.bar_chart(loyalty_sales)
 # ----------------------
 with st.expander("View Filtered Dataset"):
     st.dataframe(filtered_df)
-
